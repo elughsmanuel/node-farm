@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elughsmanuel/node-farm.git"
+  },
+  "author": "Emmanuel Elugbaju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elughsmanuel/node-farm/issues"
+  },
+  "homepage": "https://github.com/elughsmanuel/node-farm#readme",
+  "dependencies": {
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
